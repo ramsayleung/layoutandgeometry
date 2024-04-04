@@ -45,6 +45,7 @@
 		57BD54312BBB97850076F8F9 /* LayoutAndGeometryUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = LayoutAndGeometryUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		57BD54352BBB97850076F8F9 /* LayoutAndGeometryUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LayoutAndGeometryUITests.swift; sourceTree = "<group>"; };
 		57BD54372BBB97850076F8F9 /* LayoutAndGeometryUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LayoutAndGeometryUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		57BD54482BBE0DBD0076F8F9 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -75,6 +76,7 @@
 		57BD540D2BBB97840076F8F9 = {
 			isa = PBXGroup;
 			children = (
+				57BD54482BBE0DBD0076F8F9 /* README.md */,
 				57BD54182BBB97840076F8F9 /* LayoutAndGeometry */,
 				57BD542A2BBB97850076F8F9 /* LayoutAndGeometryTests */,
 				57BD54342BBB97850076F8F9 /* LayoutAndGeometryUITests */,
